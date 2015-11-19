@@ -1,6 +1,6 @@
 #Coursera project assignment for data products class
 
-*This shiny application has the following behavior:*
+##This shiny application has the following behavior:
 
 This site allows you to specify normal distribution mean and standard deviation.
 You also have to give an interval. The normal distribution probability density function
