@@ -15,3 +15,9 @@ To make it work you have to:
  
 The système will automatically plot the normal distribution probability density function
 and calculate the probability.
+
+You can access the site using the following URL:
+[https://dsonnerat.shinyapps.io/shinyProject]
+
+This documention can be viewed on the site by clicking the check box "Click to have some help on how to use this site."
+
