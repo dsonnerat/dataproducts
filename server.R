@@ -21,6 +21,7 @@ shinyServer(
                                 
                                 plot.new()
                                 text(0.5,0.5,helpMsg , col='blue')
+                                
                         } else if(input$min >= input$max){
                                 plot.new()
                                 text(0.5,0.5,minmaxErrorMsh, col='red')
