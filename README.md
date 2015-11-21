@@ -21,3 +21,4 @@ You can access the site using the following URL:
 
 **This documention can be viewed on the site by clicking the check box "Click to have some help on how to use this site."**
 
+If you whant more deltails on the application, you can go to this link [https://dsonnerat.github.io/]
