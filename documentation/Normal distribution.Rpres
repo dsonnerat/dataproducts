@@ -2,6 +2,7 @@ Normal distribution a Shiny application by
 ========================================================
 author: Damien Sonnerat
 date: November 20th 2015
+transition: rotate
 
 What does the application
 ========================================================
